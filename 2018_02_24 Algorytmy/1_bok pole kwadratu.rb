@@ -1,5 +1,5 @@
 x = gets.to_i
-obwód = 4 * x
-pole = x * x
-puts obwód
-puts pole
+perimeter = 4 * x
+area = x * x
+puts perimeter
+puts area
